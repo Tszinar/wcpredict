@@ -1,2 +1,2 @@
-# wcpredict
-world cup
+# world cup
+ predict
